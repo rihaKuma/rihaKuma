@@ -1,5 +1,3 @@
-<!-- プロフィール用 README.md -->
-
 <h1 align="center">Welcome to rihaKuma's GitHub Profile! </h1>
 
 <p align="center">
@@ -8,14 +6,14 @@
 
 ## Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 
 <p align="center">
