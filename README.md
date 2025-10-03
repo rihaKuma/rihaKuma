@@ -16,12 +16,12 @@
 ## GitHub Stats
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rihaKuma&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihaKuma&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihaKuma&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rihaKuma&theme=tokyonight&utcOffset=9" height="170" />
 </p>
